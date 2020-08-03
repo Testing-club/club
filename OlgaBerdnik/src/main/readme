@@ -1,0 +1,5 @@
+
+git pull (branch B)
+git add .
+git commit -m "massage"
+git push origin B
